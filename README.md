@@ -77,7 +77,7 @@ I'm a passionate **Full Stack Developer** with a focus on building responsive we
 ## 🧠 Favorite Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.”  
-> — *Cory House*
+>
 
 ---
 
