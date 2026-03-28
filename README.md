@@ -56,23 +56,8 @@ I'm a passionate **Full Stack Developer** with a focus on building responsive we
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
-
-## 📊 GitHub Stats & Metrics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepSon1110&theme=dark" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepSon1110&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepSon1110&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-
----
+📊 GitHub Stats & Metrics
+<p align="center"> <img src="https://streak-stats.demolab.com?user=DeepSon1110&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeepSon1110&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/> </p> <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeepSon1110&layout=compact&theme=dark&cache_seconds=1800" alt="Top Languages"/> </p>
 
 ## 🧠 Favorite Quote
 
